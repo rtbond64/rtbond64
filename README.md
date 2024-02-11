@@ -31,4 +31,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/koobitor"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="koobitor" /></a></p><br><br>
-<p><a href="https://ko-fi.com/koobitor"> <img align="left" src="[https://cdn.ko-fi.com/cdn/kofi3.png?v=3](https://twitter.com/bondrungrot)" height="50" width="210" alt="rtbond64" /></a></p><br><br>
+<p><a href="https://ko-fi.com/koobitor"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rtbond64" /></a></p><br><br>
