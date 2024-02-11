@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bond Rungrot</h1>
 <h3 align="center">A passionate social worker and developer from Thailand</h3>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rtbond64&" alt="rtbond64" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rtbond64&label=Profile%20views&color=0e75b6&style=flat" alt="rtbond64" /> </p>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rtbond64" alt="rtbond64" /></a> </p>
+
 - 🌱 I’m currently learning **Management and Business Development**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rungrot-tatiyawongwiwat-49a9a1112/recent-activity/newsletter/](https://www.linkedin.com/in/rungrot-tatiyawongwiwat-49a9a1112/recent-activity/newsletter/)
