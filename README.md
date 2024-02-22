@@ -4,7 +4,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rtbond64&" alt="rtbond64" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rtbond64&label=Profile%20views&color=0e75b6&style=flat" alt="rtbond64" /> </p>
 
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rtbond64" alt="rtbond64" /></a> </p>
 
 - 🌱 I’m currently learning **Management and Business Development**
