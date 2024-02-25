@@ -31,4 +31,3 @@
 <h3 align="left">Support:</h3>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rtbond64?ext=heatmap)
-![](https://leetcard.jacoblin.cool/rtbond64?ext=contest)
