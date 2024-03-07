@@ -30,4 +30,4 @@
 
 <h3 align="left">Support:</h3>
 
-![](https://leetcard.jacoblin.cool/leetcode?rtbond64=cn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/rtbond64?ext=heatmap)
